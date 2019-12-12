@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def using_while
 
@@ -8,9 +8,9 @@ def using_while
 
    puts "Wingardium Leviosa"
    levitation_force += 1 
-   binding.pry
+
   end 
 end
 
-using_while
+
 
