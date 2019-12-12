@@ -1,0 +1,15 @@
+looping: 
+
+ - a condition has to be met in order for loop to exit 
+ 
+ - while/until statements: conditional statements 
+ 
+ 
+ - while (condition) 
+    keep executing logic 
+    
+- until (condition) 
+    keep executing logic 
+    
+    
+  number = 0 
