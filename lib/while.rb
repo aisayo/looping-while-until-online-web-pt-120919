@@ -8,7 +8,7 @@ def using_while
 
    puts "Wingardium Leviosa"
    levitation_force += 1 
-    binding.pry
+   binding.pry
   end 
 end
 
