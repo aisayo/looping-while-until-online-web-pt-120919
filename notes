@@ -18,7 +18,7 @@ looping:
   
   while number < 5 
     the number is ... 
-    
+    number += 1 
   end
   
   until number == 5 
