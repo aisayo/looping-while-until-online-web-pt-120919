@@ -4,6 +4,8 @@ looping:
  
  - while/until statements: conditional statements 
  
+ - infinite loops - stopped by ctrl + c 
+ 
  
  - while (condition) 
     keep executing logic 
@@ -21,5 +23,5 @@ looping:
   
   until number == 5 
     the number is #{number}
-    
+    number +=1
   end 
