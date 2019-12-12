@@ -1,9 +1,9 @@
 require 'pry'
 
 def using_while
-  binding.pry
+
   levitation_force = 6
-  
+  binding.pry
   while levitation_force < 10 
 
    puts "Wingardium Leviosa"
